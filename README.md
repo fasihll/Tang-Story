@@ -27,3 +27,4 @@
 - Camera X
 - Google Maps Api
 - Glide
+- Ui Testing and Unit Testing
