@@ -28,3 +28,7 @@
 - Google Maps Api
 - Glide
 - Ui Testing and Unit Testing
+- Property Animation
+- Shared Animation
+- Custom View
+  
